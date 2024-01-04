@@ -1,1 +1,1 @@
-print("触发构建")
+print("hello,world.")
